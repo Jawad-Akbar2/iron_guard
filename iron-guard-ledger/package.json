@@ -1,0 +1,15 @@
+{
+  "name": "iron-guard-ledger",
+  "version": "1.0.0",
+  "description": "MERN Stack Ledger Management System",
+  "main": "backend/api/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "cd backend && node api/index.js",
+    "build": "echo 'Build complete'",
+    "start": "node backend/api/index.js"
+  },
+  "keywords": ["ledger", "mern", "accounting"],
+  "author": "Jawad",
+  "license": "MIT"
+}
